@@ -4449,7 +4449,7 @@
     (uuid d129bde9-fd8d-4210-99d7-cc8d47c9926e)
     (property "Reference" "J2" (id 0) (at 254.635 88.9 0))
     (property "Value" "SWD" (id 1) (at 254.635 104.14 0))
-    (property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical_SMD" (id 2) (at 253.365 96.52 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" (id 2) (at 253.365 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 253.365 96.52 0)
@@ -4963,7 +4963,7 @@
       (reference "J1") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
     )
     (path "/d129bde9-fd8d-4210-99d7-cc8d47c9926e"
-      (reference "J2") (unit 1) (value "SWD") (footprint "Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical_SMD")
+      (reference "J2") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
     )
     (path "/9d7bd142-a6ca-4b80-bdec-a5f7969ab7b5"
       (reference "J3") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")

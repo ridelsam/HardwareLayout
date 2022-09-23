@@ -1,0 +1,49 @@
+### Module positions - created on Thu Sep 22 20:01:57 2022 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                               PosX       PosY       Rot  Side
+C1        10u            C_1206_3216Metric                                 105.9500   -91.0000   90.0000  top
+C2        10u            C_1206_3216Metric                                  97.2500   -99.5000    0.0000  top
+C3        10u            C_1206_3216Metric                                  97.2500  -102.5000    0.0000  top
+C4        10n            C_0603_1608Metric                                 102.4500   -96.2500  -90.0000  top
+C5        4u7            C_0603_1608Metric                                  79.7500   -74.5000   90.0000  top
+C6        100n           C_0402_1005Metric                                  79.2500   -78.7700   90.0000  top
+C7        100n           C_0402_1005Metric                                  83.9800   -90.7500  180.0000  top
+C8        100n           C_0402_1005Metric                                  92.7500   -89.0000    0.0000  top
+C9        100n           C_0402_1005Metric                                  93.2500   -77.4800   90.0000  top
+C10       100n           C_0402_1005Metric                                  83.4800   -75.2500    0.0000  top
+C11       1u             C_0402_1005Metric                                  77.5000   -85.2300   90.0000  top
+C12       10n            C_0402_1005Metric                                  78.7500   -85.2500   90.0000  top
+C13       2u2            C_0603_1608Metric                                  91.5000   -90.7500    0.0000  top
+C14       2u2            C_0603_1608Metric                                  95.2500   -79.0000   90.0000  top
+C15       12p            C_0402_1005Metric                                  73.5000   -78.0000    0.0000  top
+C16       12p            C_0402_1005Metric                                  73.5000   -84.0000  180.0000  top
+D1        B5819W         D_SOD-123                                         110.5000   -86.5000    0.0000  top
+D2        B5819W         D_SOD-123                                          98.7000   -89.7500    0.0000  top
+D3        RED            D_0603_1608Metric                                 107.7500   -65.5000  180.0000  top
+D4        BLUE           D_0603_1608Metric                                  80.0000   -89.7125   90.0000  top
+F1        250Ma          Fuse_1206_3216Metric                              105.2500   -86.5000  180.0000  top
+FB1       600_@_600_Mhz  L_0805_2012Metric                                 103.7000   -91.5000  -90.0000  top
+J2        SWD            PinHeader_2x05_P1.27mm_Vertical_SMD               100.5000   -64.2500  -90.0000  top
+J5        USB_B_Micro    USB_Micro-B_Amphenol_10103594-0001LF_Horizontal   117.7500   -77.5000   90.0000  top
+L1        10u            L_Sunlord_MWSA0518_5.4x5.2mm                       97.7500   -95.0000  180.0000  top
+L2        39n            L_0402_1005Metric                                  75.7500   -87.2500    0.0000  top
+Q1        AO3401A        SOT-23                                            109.5000   -91.2500  -90.0000  top
+R1        100k           R_0603_1608Metric                                 108.2500   -95.2500  -90.0000  top
+R2        68k            R_0603_1608Metric                                 110.0000   -95.2500   90.0000  top
+R3        47k            R_0603_1608Metric                                 106.5000   -99.7500   90.0000  top
+R4        15k            R_0603_1608Metric                                 108.2500   -99.7500  -90.0000  top
+R5        270            R_0603_1608Metric                                 110.0000   -99.7500   90.0000  top
+R6        1k             R_0603_1608Metric                                 107.7500   -63.5000  180.0000  top
+R7        10K            R_0402_1005Metric                                  72.2500   -74.5000  180.0000  top
+R8        47             R_0402_1005Metric                                  78.0000   -81.7500  180.0000  top
+R9        1k5            R_0603_1608Metric                                  78.0000   -89.7500   90.0000  top
+R10       2k2            R_0402_1005Metric                                  88.5000   -72.0000  180.0000  top
+R11       2k2            R_0402_1005Metric                                  86.4900   -72.0000    0.0000  top
+SW1       SW_SPDT        SW_SPDT_PCM12                                      68.2250   -73.7500  -90.0000  top
+U1        MP2359DJ-LF-Z  SOT-23-6                                          105.4500   -95.7500   90.0000  top
+U2        STM32F405RGTy  LQFP-64_10x10mm_P0.5mm                             87.0000   -83.0000    0.0000  top
+U3        USBLC6-2SC6    SOT-23-6                                          108.7500   -78.0000  180.0000  top
+Y1        16Mhz          Crystal_SMD_3225-4Pin_3.2x2.5mm                    73.6000   -80.9000  -90.0000  top
+## End
