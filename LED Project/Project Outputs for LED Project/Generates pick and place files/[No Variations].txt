@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\rsamonte\OneDrive - Tesla\Altium Practice\PCB_Project\Project Outputs for LED Project\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/11/21
+Time:       22:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                                                
+R2         360R         BottomLayer R0805     685.500       590.697       90       "Res Thick Film 0805 36 Ohm 1% 1/8W ±100ppm/°C Molded SMD SMD Paper T/R"                   
+D2         Green        BottomLayer LED0603G  685.000       435.480       90       "APG1608CGKC/T Green LED; 570 nm 1608 (0603) Clear; Rectangle Lens SMD package"            
+R1         360R         TopLayer    R0805     177.165       450.787       90       "Res Thick Film 0805 36 Ohm 1% 1/8W ±100ppm/°C Molded SMD SMD Paper T/R"                   
+J1         "1x2 Header" TopLayer    HEADER1X2 570.866       424.016       0        "KK 254 Wire-to-Board Header, Vertical, with Friction Lock, 2 Circuits, Gold (Au) Plating" 
+D1         Green        TopLayer    LED0603G  177.165       243.110       90       "APG1608CGKC/T Green LED; 570 nm 1608 (0603) Clear; Rectangle Lens SMD package"            

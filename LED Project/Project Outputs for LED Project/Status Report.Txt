@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:28:53 PM On 11/3/2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LED Project.PrjPcb]
+   Generated File[//teslamotorsinc-my.sharepoint.com/personal/rsamonte_tesla_com/Documents/Altium rsam/PCB_Project/Project Outputs for LED Project/Bill of Materials/[No Variations].xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:29:03 PM On 11/3/2021
