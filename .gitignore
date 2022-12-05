@@ -24,3 +24,26 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+
+#folders/files to ignore
+#Arduino Project
+Arduino/Arduino/__Previews/
+Arduino/Arduino/History/
+Arduino/Arduino/Project Logs for Arduino/
+Arduino/Arduino/Project Outputs for Arduino_2/
+
+#PowerSupply Project
+ISL6236A_PowerSupply/ISL6236A_DEMO_V1/__Previews/
+ISL6236A_PowerSupply/ISL6236A_DEMO_V1/Project Logs for ISL6236A_DEMO_V1/
+ISL6236A_PowerSupply/ISL6236A_DEMO_V1/History/
+
+#Misc
+BOM
+BOM Purchase FEDEVEL Live.xltx
+Udemy_Learn_to_Design_Your_Own_Boards_2020-4.part1_Downloadly.ir.rar
+Power
+
+
+
+
