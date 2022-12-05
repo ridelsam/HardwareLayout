@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:06:57 PM On 11/26/2021
+
+Output: Arduino BoM Purchasing
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Arduino.PrjPcb]
+   Generated File[//teslamotorsinc-my.sharepoint.com/personal/rsamonte_tesla_com/Documents/Altium rsam/Arduino/Arduino/Project Outputs for Free Documents/BOM/Arduino BoM Purchasing-Arduino.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:07:04 PM On 11/26/2021
