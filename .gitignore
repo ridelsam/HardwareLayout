@@ -38,6 +38,12 @@ ISL6236A_PowerSupply/ISL6236A_DEMO_V1/__Previews/
 ISL6236A_PowerSupply/ISL6236A_DEMO_V1/Project Logs for ISL6236A_DEMO_V1/
 ISL6236A_PowerSupply/ISL6236A_DEMO_V1/History/
 
+#BuckConverter
+BuckConverter_KC/Datasheets/.metadata/
+
+#STM32F0 Breakout Project
+
+
 #Misc
 BOM
 BOM Purchase FEDEVEL Live.xltx
