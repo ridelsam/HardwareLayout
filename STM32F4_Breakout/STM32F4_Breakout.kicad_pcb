@@ -1426,7 +1426,7 @@
 
   (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_Via" (layer "F.Cu")
     (tedit 56DDBFD7) (tstamp 96231b61-1df5-4f69-9529-a286c9fa9853)
-    (at 105 84.2)
+    (at 105.2 84.4)
     (descr "Mounting Hole 4.3mm, M4")
     (tags "mounting hole 4.3mm m4")
     (property "Sheetfile" "STM32F4_Breakout.kicad_sch")
@@ -1600,7 +1600,7 @@
 
   (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_Via" (layer "F.Cu")
     (tedit 56DDBFD7) (tstamp ad848cc7-2450-413a-ab41-72cdfbff5e39)
-    (at 105 45.4)
+    (at 105.319581 44.880419)
     (descr "Mounting Hole 4.3mm, M4")
     (tags "mounting hole 4.3mm m4")
     (property "Sheetfile" "STM32F4_Breakout.kicad_sch")
@@ -1909,7 +1909,7 @@
 
   (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_Via" (layer "F.Cu")
     (tedit 56DDBFD7) (tstamp d4a469c9-23ff-47e8-ac60-037ea95aaad2)
-    (at 66 45.4)
+    (at 65.8 45.2)
     (descr "Mounting Hole 4.3mm, M4")
     (tags "mounting hole 4.3mm m4")
     (property "Sheetfile" "STM32F4_Breakout.kicad_sch")
@@ -1996,7 +1996,7 @@
 
   (footprint "MountingHole:MountingHole_4.3mm_M4_Pad_Via" (layer "F.Cu")
     (tedit 56DDBFD7) (tstamp d59ade43-3ed5-48d5-ad05-be15bd166cb5)
-    (at 66 84.2)
+    (at 65.6 84.4)
     (descr "Mounting Hole 4.3mm, M4")
     (tags "mounting hole 4.3mm m4")
     (property "Sheetfile" "STM32F4_Breakout.kicad_sch")
@@ -2252,9 +2252,13 @@
     )
   )
 
-  (gr_line (start 110.4 39.8) (end 110.4 89.6) (layer "Edge.Cuts") (width 0.1) (tstamp 020a4b12-c343-4ee0-bd3b-dfc579b451a4))
-  (gr_line (start 60.4 89.6) (end 60.4 39.8) (layer "Edge.Cuts") (width 0.1) (tstamp 0d090ae7-5de5-4e13-a647-e3cda4267300))
-  (gr_line (start 60.4 39.8) (end 110.4 39.8) (layer "Edge.Cuts") (width 0.1) (tstamp 23920152-479e-472d-b01e-f82f096b36bc))
-  (gr_line (start 110.4 89.6) (end 60.4 89.6) (layer "Edge.Cuts") (width 0.1) (tstamp de727ef8-448e-4a3e-a5fc-692926ee9112))
+  (gr_line (start 110.4 44.8) (end 110.4 84.4) (layer "Edge.Cuts") (width 0.1) (tstamp 020a4b12-c343-4ee0-bd3b-dfc579b451a4))
+  (gr_line (start 60.4 84.4) (end 60.4 45.2) (layer "Edge.Cuts") (width 0.1) (tstamp 0d090ae7-5de5-4e13-a647-e3cda4267300))
+  (gr_line (start 65.8 39.8) (end 105.4 39.8) (layer "Edge.Cuts") (width 0.1) (tstamp 23920152-479e-472d-b01e-f82f096b36bc))
+  (gr_arc (start 65.6 89.6) (mid 61.923045 88.076955) (end 60.4 84.4) (layer "Edge.Cuts") (width 0.1) (tstamp 89063173-a876-423f-88a3-89d46d9a5446))
+  (gr_line (start 105.2 89.6) (end 65.6 89.6) (layer "Edge.Cuts") (width 0.1) (tstamp de727ef8-448e-4a3e-a5fc-692926ee9112))
+  (gr_arc (start 105.4 39.8) (mid 108.935534 41.264466) (end 110.4 44.8) (layer "Edge.Cuts") (width 0.1) (tstamp ed8f45ca-08f6-4f51-9721-99c35adc2224))
+  (gr_arc (start 110.4 84.4) (mid 108.876955 88.076955) (end 105.2 89.6) (layer "Edge.Cuts") (width 0.1) (tstamp f01add10-35dd-4674-b963-4dd51f1def82))
+  (gr_arc (start 60.4 45.2) (mid 61.981623 41.381623) (end 65.8 39.8) (layer "Edge.Cuts") (width 0.1) (tstamp f2c6247b-fa64-4dfb-a7f4-ed3da9a977ed))
 
 )
